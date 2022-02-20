@@ -22,7 +22,7 @@ Give the urls in urls.py.
 
 ### Step 6:
 
-Publish the website in the given URL.
+Publish the website in the given URL : http://harini.student.saveetha.in/
 
 ## PROGRAM :
 ## area.html:
