@@ -43,7 +43,7 @@ Publish the website in the given URL.
        {% csrf_token %}
        Length=<input type="text" name="length" value={{l}}></input> </br>
        Breadth=<input type="text" name="breadth" value={{b}}></input> </br>
-    <input type="submit" value="calculatarea"> </input> </br>
+    <input type="submit" value="calculate recarea"> </input> </br>
        Area=<input type="text" name="area" value={{area}}> </input> </br>
    </form> 
 </body>
@@ -80,7 +80,7 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![out](./result.jfif)
+![out](./area.jpeg)
 
 ## Result:
 The code to execute mathematical website in server side has been created successfully.
